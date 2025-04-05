@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Kevin – aka `codedbykp`
 
-<!--
-**codedbykp/codedbykp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A marketing professional turned tech-savvy automation consultant with over **8 years' experience** across B2B and B2C.
 
-Here are some ideas to get you started:
+📍 I specialise in building and optimising multi-channel campaigns for global brands in the **tech and legal** industries — from **email automation** to full-funnel workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I’ve worked across **physical and virtual events**, supporting global portfolios, driving engagement, and making marketing smarter.
+
+🛠️ My superpowers:
+- Marketing automation (Marketo, Salesforce, HubSpot)
+- Email template development & optimisation
+- Data-driven campaign performance analysis
+- Creative problem solving & process improvement
+
+🚀 Passionate about using **code + automation** to unlock better results and smoother ops.
+
+---
+
+📬 Let's connect or collaborate:
+- 🐦 Twitter: [@codedbykp](#)
+- 💼 LinkedIn: [linkedin.com/in/kevinpragas](#)
+- 🌐 Portfolio: [codedbykp.dev](#)
