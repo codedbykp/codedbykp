@@ -17,6 +17,4 @@
 ---
 
 📬 Let's connect or collaborate:
-- 🐦 Twitter: [@codedbykp](#)
 - 💼 LinkedIn: [linkedin.com/in/kevinpragas](#)
-- 🌐 Portfolio: [codedbykp.dev](#)
